@@ -34,16 +34,11 @@ This project proposes an Artificial Tree system that captures CO₂ directly fro
 4. Heat or moisture releases the captured CO₂.
 5. The CO₂ is stored or reused in industrial applications.
 ---
-**system architecture**
-Air Flow
-   ↓
-CO₂ Capture Filter
-   ↓
-CO₂ Sensor
-   ↓
-Microcontroller (Arduino / IoT)
-   ↓
-Data Dashboard
+## Features
+- Removes CO₂ directly from ambient air
+- Uses passive airflow
+- Scalable modular system
+- Can be deployed in cities or industrial zones
 
 ---
 **Technology Stack:**  
