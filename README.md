@@ -70,7 +70,7 @@ This project proposes an Artificial Tree system that captures CO₂ directly fro
 - Santori et al. (2018). *Adsorption artificial tree for atmospheric CO₂ capture*  
 
 ---
-## Future Scope
+## 🚀Future Scope
 
 - **AI-Based Optimization:** Artificial trees can use AI algorithms to optimize carbon capture cycles based on environmental conditions such as temperature, humidity, and CO₂ concentration.
 
