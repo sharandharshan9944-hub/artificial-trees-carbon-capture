@@ -26,6 +26,12 @@ This project proposes an Artificial Tree system that captures CO₂ directly fro
 
 ## 💡 Solution Overview
 **Proposed Solution:** Artificial trees using resin-based collectors and adsorption materials to capture CO₂ directly from ambient air.  
+## Working Principle
+1. Air flows through the artificial tree structure.
+2. Special sorbent materials capture CO₂ molecules.
+3. The sorbent becomes saturated.
+4. Heat or moisture releases the captured CO₂.
+5. The CO₂ is stored or reused in industrial applications.
 
 **Technology Stack:**  
 - Resin-based sorbents for passive CO₂ absorption  
