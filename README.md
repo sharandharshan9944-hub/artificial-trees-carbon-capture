@@ -2,7 +2,10 @@
 
 ## 📌 Problem Definition
 **Domain:** Climate Change & Sustainability  
-**Problem Statement:** Rising CO₂ emissions are accelerating global warming, and natural afforestation alone cannot meet the scale required for carbon sequestration.  
+**Problem Statement:** Rising CO₂ emissions are accelerating global warming, and natural afforestation alone cannot meet the scale required for carbon sequestration.## Problem Statement
+Climate change is accelerating due to increasing CO₂ emissions.
+Natural forests cannot absorb carbon fast enough to offset emissions.
+This project proposes an Artificial Tree system that captures CO₂ directly from air using sorbent materials.  
 **Project Title:** Artificial Trees for Scalable Carbon Capture  
 
 ---
