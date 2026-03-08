@@ -70,7 +70,29 @@ This project proposes an Artificial Tree system that captures CO₂ directly fro
 - Santori et al. (2018). *Adsorption artificial tree for atmospheric CO₂ capture*  
 
 ---
+## Future Scope
 
+- **AI-Based Optimization:** Artificial trees can use AI algorithms to optimize carbon capture cycles based on environmental conditions such as temperature, humidity, and CO₂ concentration.
+
+- **Smart City Integration:** These systems can be deployed in urban environments and connected to smart city networks to monitor and improve air quality in real time.
+
+- **Solar-Powered Operation:** Future artificial trees can be powered using solar panels, making them energy-efficient and environmentally sustainable.
+
+- **CO₂ Conversion Technologies:** Captured carbon dioxide can be converted into useful products such as synthetic fuels, building materials, fertilizers, or carbon fibers.
+
+- **Large-Scale Carbon Capture Farms:** Deploying thousands of artificial trees together could create large-scale carbon capture farms capable of removing significant amounts of CO₂ from the atmosphere.
+
+- **IoT-Based Monitoring System:** Artificial trees can be connected to IoT platforms to track CO₂ capture rates, device efficiency, and environmental data through a real-time dashboard.
+
+- **Advanced Sorbent Materials:** Future research may develop highly efficient and self-regenerating sorbent materials to improve capture efficiency and reduce operational costs.
+
+- **Hybrid Natural–Artificial Forests:** Artificial trees could be combined with natural forests to significantly increase global carbon sequestration capacity.
+
+- **Portable Carbon Capture Units:** Mobile artificial trees could be developed to reduce pollution in temporary high-emission areas such as construction sites and industrial zones.
+
+- **Global Carbon Monitoring Network:** Artificial trees around the world could form a connected network that helps scientists track atmospheric CO₂ levels and support climate change mitigation strategies.
+
+---
 ## 💼 Business Model
 **Impact:** Reduces urban CO₂ levels, improves air quality, and contributes to climate targets  
 
