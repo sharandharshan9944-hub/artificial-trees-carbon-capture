@@ -44,6 +44,7 @@ CO₂ Sensor
 Microcontroller (Arduino / IoT)
    ↓
 Data Dashboard
+
 ---
 **Technology Stack:**  
 - Resin-based sorbents for passive CO₂ absorption  
